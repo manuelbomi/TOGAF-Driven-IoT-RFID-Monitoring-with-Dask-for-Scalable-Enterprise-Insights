@@ -167,6 +167,27 @@ plt.show()
 | Technology Architecture  | Introduce Dask clusters for HPC & parallel processing    | Both repositories                |
 | Implementation Governance| Validate metrics, monitor pipelines, generate alerts    | Both repositories                |
 
+---
+
+## Roadmaps for TOAGF Step 4 - Step 8
+
+#### This roadmap builds upon the initial steps (Phases 1–3) where key sensors, compliance metrics, and datasets were defined. It shows a progressive approach for enterprises to incrementally implement, scale, and maintain high-performance IoT and RFID analytics using Dask. Code snippets such as generating RFID events, computing rolling statistics, and setting up Dask clusters from both repositories can be directly referenced in Phase D–H implementations.
+
+```python
+| TOGAF Phase                                 | Implementation Step                                                                                                                               | Repository Reference                                                     |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Phase D: Technology Architecture**        | Deploy Dask clusters and HPC infrastructure to support parallelized IoT/RFID analytics, containerize services with Docker for reproducibility     | Both repositories                                                        |
+| **Phase E: Opportunities & Solutions**      | Integrate IoT and RFID analytics pipelines with dashboards (Streamlit, Matplotlib/Seaborn) and define incremental deployment milestones           | Dask-Based-Distributed-IoT-RFID-Enterprise-Asset-Monitoring-and-Tracking |
+| **Phase F: Migration Planning**             | Develop deployment scripts for rolling out analytics to production sensors and facilities; plan incremental scaling of HPC resources              | Both repositories                                                        |
+| **Phase G: Implementation Governance**      | Validate analytics results, monitor performance, track anomalies and compliance metrics; generate real-time alerts                                | Both repositories                                                        |
+| **Phase H: Architecture Change Management** | Continuously adapt pipelines to new sensor types, larger datasets, and evolving business requirements; incorporate feedback into the architecture | Both repositories                                                        |
+
+
+```
+
+
+
+---
 
 ## Key Enterprise Benefits
 
@@ -179,6 +200,21 @@ plt.show()
 - Low Memory Footprint: Dask avoids Pandas memory bottlenecks
 
 - Incremental Implementation: Supports TOGAF ADM cycles for enterprise adoption
+
+
+## Acknowledgements
+
+### Dask
+ - for distributed computing
+
+### TOGAF
+ - for enterprise architecture guidance
+
+- Original repositories:
+
+Enterprise-IoT-Dask
+
+Dask-Based-Distributed-IoT-RFID-Enterprise-Asset-Monitoring-and-Tracking
 
 
 
