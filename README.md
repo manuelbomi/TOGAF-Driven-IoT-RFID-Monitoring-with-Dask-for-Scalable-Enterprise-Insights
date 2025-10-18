@@ -9,7 +9,14 @@ Two complementary projects are integrated here:
 1. **Enterprise-IoT-Dask** – Temperature monitoring, cold chain compliance, and sensor anomaly detection.
 2. **Dask-Based-Distributed-IoT-RFID-Enterprise-Asset-Monitoring-and-Tracking** – RFID asset tracking, dwell time analysis, and gateway performance monitoring.
 
-More detailed overviews of both projects are availanle here: *https://github.com/manuelbomi/Enterprise-IoT-Dask---High-Performance-Distributed-Analytics-for-RFID-IoT-Sensors-Data*     ; and here: *https://github.com/manuelbomi/Dask-Based-Distributed-IoT-RFID-Enterprise-Asset-Monitoring-and-Tracking*
+#### More detailed overviews of both projects are availanle here: 
+
+<ins>Repository 1</ins>: *https://github.com/manuelbomi/Enterprise-IoT-Dask---High-Performance-Distributed-Analytics-for-RFID-IoT-Sensors-Data*     ; 
+
+#### and here: 
+
+<ins>Repository 2</ins>: *https://github.com/manuelbomi/Dask-Based-Distributed-IoT-RFID-Enterprise-Asset-Monitoring-and-Tracking*
+
 
 #### Together, these projects demonstrate a **TOGAF-aligned incremental implementation** for enterprise-scale analytics.
 
